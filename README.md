@@ -1,8 +1,6 @@
 # Jointly Learning Graph Partitions and Classifiers for Fast Nearest Neighbor Search
 
-This repository contains the code and experiments for the project **Jointly Learning Graph Partitions and Classifiers for Fast Nearest Neighbor Search** (Columbia University).
-
-It studies how to improve data-dependent Approximate Nearest Neighbor Search (ANNS) by **jointly optimizing a balanced k-NN graph partition and a routing classifier**, instead of training the classifier to mimic a fixed partition (as in Neural LSH).
+This project studies how to improve data-dependent Approximate Nearest Neighbor Search (ANNS) by jointly optimizing a balanced k-NN graph partition and a routing classifier, instead of training the classifier to mimic a fixed partition (as in Neural LSH).
 
 ---
 
