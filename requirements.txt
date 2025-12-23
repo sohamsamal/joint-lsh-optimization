@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+tqdm
+matplotlib
+scikit-learn
+torch
+faiss-cpu; platform_system!='Darwin' or platform_machine!='arm64'
+faiss; platform_system=='Darwin' and platform_machine=='arm64'
+pyyaml
+jupyterlab
+nbformat
